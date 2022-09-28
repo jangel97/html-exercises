@@ -6,7 +6,7 @@ Te damos la bienvenida al mundo del HTML 🖖🧑‍💻
 
 ## 💬 Fundamentos: 
 
-Hemos preparado estos ejercicios para cualquier persona interesada en aprender HTML desde cero. Durante este curso, repasaremos los siguientes conceptos:
+Hemos preparado estos ejercicios para cualquier persona interesada en aprender HTML desde cero. Repasaremos los siguientes conceptos:
 
 1. Familiarizarse con la mayoría de las etiquetas HTML más populares.
 
