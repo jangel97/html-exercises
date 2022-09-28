@@ -11,9 +11,7 @@ HTML is a markup language, meaning that everything you type must be wraped in op
 
 ## 📝 Instructions:
 
-1. Please `remove` the current website content, `add` the above tags to your website HTML and press "build" to see the results.
-
-![Build](../../.learn/assets/build.png?raw=true)
+1. Please `remove` the current website content, `add` the above tags to your website.
 
 ## 💻 Expected Result:
 
